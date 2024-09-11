@@ -37,7 +37,7 @@ img{
   }
 
 
-div.introduction, div.red, div.blue, div.yellow, div.green{
+div{
     border: 3px solid #ffffff;
     min-height: 125px;
     padding: 20px;
@@ -111,7 +111,7 @@ footer{
     background: linear-gradient(#000000, #0000ff 25%, #0066ff 70%, #000000 100%)
 }
 
-p.footer{
+footer p{
     font-size: 20px;
     text-align: right;
     padding-top: 15px;
