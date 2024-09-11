@@ -19,7 +19,7 @@ h2{
     font-size: 30px;
 }
 
-p{
+p.intro, p.red, p.blue, p.yellow, p.green{
     font-size: 24px;
     padding-top: 10px;
     padding-right: 0px;
@@ -28,7 +28,7 @@ p{
 }
 
 
-img {
+img{
     border: 10px dashed #ffffff;
     display: block;
     margin-left: auto;
@@ -37,7 +37,7 @@ img {
   }
 
 
-.div{
+div.introduction, div.red, div.blue, div.yellow, div.green{
     border: 3px solid #ffffff;
     min-height: 125px;
     padding: 20px;
@@ -111,7 +111,7 @@ footer{
     background: linear-gradient(#000000, #0000ff 25%, #0066ff 70%, #000000 100%)
 }
 
-footer, p{
+p.footer{
     font-size: 20px;
     text-align: right;
     padding-top: 15px;
