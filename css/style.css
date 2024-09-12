@@ -19,7 +19,7 @@ h2{
     font-size: 30px;
 }
 
-p.introduction, p.red, p.blue, p.yellow, p.green, p.footer{
+p.introduction, p.red, p.blue, p.yellow, p.green, p#footer{
     font-size: 24px;
     padding-top: 10px;
     padding-right: 0px;
@@ -37,7 +37,7 @@ img{
 }
 
 
-div{
+div, div.red{
     box-sizing: border-box 3px solid #ffffff;
     min-height: 125px;
     padding: 20px;
