@@ -34,11 +34,11 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 250px;
-  }
+}
 
 
 div{
-    border: 3px solid #ffffff;
+    box-sizing: border-box 3px solid #ffffff;
     min-height: 125px;
     padding: 20px;
 }
