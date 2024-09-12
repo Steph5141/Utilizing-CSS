@@ -19,7 +19,7 @@ h2{
     font-size: 30px;
 }
 
-p.introduction, p.red, p.blue, p.yellow, p.green{
+p.introduction, p.red, p.blue, p.yellow, p.green, p.footer{
     font-size: 24px;
     padding-top: 10px;
     padding-right: 0px;
@@ -55,8 +55,8 @@ div{
 }
 
 .red{
-    border-left: 5px solid #ffffff;
     border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
     background-color: #ff0000;
     margin-left: 50px;
 }
