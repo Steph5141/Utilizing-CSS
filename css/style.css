@@ -19,15 +19,6 @@ h2{
     font-size: 30px;
 }
 
-p.introduction, p.red, p.blue, p.yellow, p.green, p#footer{
-    font-size: 24px;
-    padding-top: 10px;
-    padding-right: 0px;
-    padding-left: 10px;
-    padding-bottom: 0px;
-}
-
-
 img{
     border: 10px dashed #ffffff;
     display: block;
@@ -37,7 +28,7 @@ img{
 }
 
 
-div, div.red{
+div{
     box-sizing: border-box 3px solid #ffffff;
     min-height: 125px;
     padding: 20px;
@@ -52,6 +43,11 @@ div, div.red{
 
 .introduction p{
     text-align: left;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-bottom: 0px;
 }
 
 .red{
@@ -63,6 +59,11 @@ div, div.red{
 
 .red p{
     text-align: right;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-bottom: 0px;
 }
 
 .blue{
@@ -80,6 +81,11 @@ div, div.red{
 .blue p{
     color:#C4C4C4;
     text-align: left;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-bottom: 0px;
 }
 
 .yellow{
@@ -92,6 +98,11 @@ div, div.red{
 
 .yellow p{
     color: #707070;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-bottom: 0px;
 }
 
 .green{
@@ -104,6 +115,11 @@ div, div.red{
 
 .green p{
     text-align: left;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-left: 10px;
+    padding-bottom: 0px;
 }
 
 footer{
@@ -113,8 +129,8 @@ footer{
 
 footer p{
     font-size: 20px;
-    text-align: right;
     padding-top: 15px;
     padding-right: 15px;
+    padding-left: 0px;
     padding-bottom: 15px;
 }
